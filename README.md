@@ -14,3 +14,21 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * Supports many online radio/streams
   * Supports local files
   * Playlist support (both web/youtube, and local)
+
+### Sources
+  * YouTube
+  * SoundCloud
+  * Bandcamp
+  * Vimeo
+  * Twitch streams
+  * Local files
+  * HTTP URLs
+### Formats
+  * MP3
+  * FLAC
+  * WAV
+  * Matroska/WebM (AAC, Opus or Vorbis codecs)
+  * MP4/M4A (AAC codec)
+  * OGG streams (Opus, Vorbis and FLAC codecs)
+  * AAC streams
+  * Stream playlists (M3U and PLS)
