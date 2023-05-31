@@ -32,3 +32,10 @@ A cross-platform Discord music bot with a clean interface, and that is easy to s
   * OGG streams (Opus, Vorbis and FLAC codecs)
   * AAC streams
   * Stream playlists (M3U and PLS)
+
+### Tutorial
+
+Coming soon!!
+
+### Credits
+This Bot is a Fork Of [JMusicBot](https://github.com/jagrosh/MusicBot)
